@@ -1,8 +1,7 @@
-# Responsive Login and Registration Form with Animation
+# نسخه فارسی شده لاگین فرم 
+برای مشاهده نسخه فارسی [اینجا](https://yasharmohamadi.github.io/animated-login-form/) کلیک کنید
 
- How To Make Responsive Login and Registration Form with Animation Using HTML CSS Javascript
 
-## Video
 
 https://youtu.be/5tVNFuKNsfw
 
